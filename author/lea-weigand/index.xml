@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lea Weigand | Andrea R. Hofer</title>
+    <link>https://andrea-hofer.github.io/author/lea-weigand/</link>
+      <atom:link href="https://andrea-hofer.github.io/author/lea-weigand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lea Weigand</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://andrea-hofer.github.io/media/icon_hu658d3878f5d4721f03161a0353d38ae8_427333_512x512_fill_lanczos_center_3.png</url>
+      <title>Lea Weigand</title>
+      <link>https://andrea-hofer.github.io/author/lea-weigand/</link>
+    </image>
+    
+    <item>
+      <title>Norms vs. Law Changes: What matters for Female Labor Force Participation?</title>
+      <link>https://andrea-hofer.github.io/project/normslaws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andrea-hofer.github.io/project/normslaws/</guid>
+      <description>&lt;p&gt;We study whether a signal of a norm change or the actual law change has a larger impact on real world outcomes by looking at a vote on the Swiss marriage law which passed in 1985 (signal), but was only implemented in 1988 (law change). While the old marriage law allowed the husband to prohibit his wife from working, the new law did not anymore.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrea R. Hofer</title>
-    <link>https://andrea-hofer.github.io/author/andrea-r.-hofer/</link>
-      <atom:link href="https://andrea-hofer.github.io/author/andrea-r.-hofer/index.xml" rel="self" type="application/rss+xml" />
-    <description>Andrea R. Hofer</description>
+    <title>Ursina Schaede | Andrea R. Hofer</title>
+    <link>https://andrea-hofer.github.io/author/ursina-schaede/</link>
+      <atom:link href="https://andrea-hofer.github.io/author/ursina-schaede/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ursina Schaede</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://andrea-hofer.github.io/media/icon_hu658d3878f5d4721f03161a0353d38ae8_427333_512x512_fill_lanczos_center_3.png</url>
-      <title>Andrea R. Hofer</title>
-      <link>https://andrea-hofer.github.io/author/andrea-r.-hofer/</link>
+      <title>Ursina Schaede</title>
+      <link>https://andrea-hofer.github.io/author/ursina-schaede/</link>
     </image>
-    
-    <item>
-      <title>A Purse of Her Own: Women&#39;s Access to Banking Services and Female Labor Supply</title>
-      <link>https://andrea-hofer.github.io/project/womensfinancialliberation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andrea-hofer.github.io/project/womensfinancialliberation/</guid>
-      <description>&lt;p&gt;Up until 1975, US women often reported issues when applying for bank accounts or loans in their own names: many banks required male co-signers, essentially granting married womens&#39; husbands access to their accounts. Such discriminatory practices were outlawed in the US with various credit laws introduced in different states at different times, culminating in the national Equal Credit Opportunity Act in 1975. In this paper, I study the consequences of granting married women more control over their own finances due to these law changes empirically and in a structural life-cycle model. I find that giving women full control over their own resources increases their likelihood of participating in the labor market by around 8 p.p. I enhance a standard collective household model in order to replicate my empirical findings. Calibrating the model to the US labor market shows that improving married womens&#39; financial independence contributed about % to the overall increase in female labor supply between 1970 and 1990.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Mothers&#39; Labor Supply and Immigration: Evidence from the Swiss Border Opening</title>
