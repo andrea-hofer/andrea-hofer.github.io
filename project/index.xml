@@ -5,31 +5,46 @@
     <link>https://andrea-hofer.github.io/project/</link>
       <atom:link href="https://andrea-hofer.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://andrea-hofer.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://andrea-hofer.github.io/media/icon_hu658d3878f5d4721f03161a0353d38ae8_427333_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://andrea-hofer.github.io/project/</link>
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>https://andrea-hofer.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://andrea-hofer.github.io/project/external-project/</guid>
-      <description></description>
+      <title>A Purse of Her Own: Women&#39;s Access to Banking Services and Female Labor Supply</title>
+      <link>https://andrea-hofer.github.io/project/womensfinancialliberation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andrea-hofer.github.io/project/womensfinancialliberation/</guid>
+      <description>&lt;p&gt;Up until 1975, US women often reported issues when applying for bank accounts or loans in their own names: many banks required male co-signers, essentially granting married womens&#39; husbands access to their accounts. Such discriminatory practices were outlawed in the US with various credit laws introduced in different states at different times, culminating in the national Equal Credit Opportunity Act in 1975. In this paper, I study the consequences of granting married women more control over their own finances due to these law changes empirically and in a structural life-cycle model. I find that giving women full control over their own resources increases their likelihood of participating in the labor market by around 8 p.p. I enhance a standard collective household model in order to replicate my empirical findings. Calibrating the model to the US labor market shows that improving married womens&#39; financial independence contributed about % to the overall increase in female labor supply between 1970 and 1990.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://andrea-hofer.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://andrea-hofer.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Mothers&#39; Labor Supply and Immigration: Evidence from the Swiss Border Opening</title>
+      <link>https://andrea-hofer.github.io/project/womenimmigration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andrea-hofer.github.io/project/womenimmigration/</guid>
+      <description>&lt;p&gt;Does immigration affect native men and women differently? We study the case of the Swiss border opening to workers from the European Union starting in 2002 and show that while the effects do not differ for young or older men and women, there are stark differences for the age group between 30-39. We find that the gender difference in this age group is driven by young mothers leaving the labor market at higher rates after immigration. The dropout rate is largest for mothers who are married to a partner who experienced the largest wage increases due to immigration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Norms vs. Law Changes: What matters for Female Labor Force Participation?</title>
+      <link>https://andrea-hofer.github.io/project/normslaws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andrea-hofer.github.io/project/normslaws/</guid>
+      <description>&lt;p&gt;We study whether a signal of a norm change or the actual law change has a larger impact on real world outcomes by looking at a vote on the Swiss marriage law which passed in 1985 (signal), but was only implemented in 1988 (law change). While the old marriage law allowed the husband to prohibit his wife from working, the new law did not anymore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unemployment Insurance Uptake, Stigma and Long Run Outcomes: Evidence from the Swiss Language Border</title>
+      <link>https://andrea-hofer.github.io/project/unemployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andrea-hofer.github.io/project/unemployment/</guid>
+      <description>&lt;p&gt;Does stigma decrease unemployment benefit uptake? We find that stigma does not affect unemployment benefit take up in good times, but has a significant effect in reducing uptake in times of economic crises.&lt;/p&gt;
 </description>
     </item>
     
