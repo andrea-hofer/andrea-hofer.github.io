@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Andrea R. Hofer</title>
+    <link>https://andrea-hofer.github.io/teaching/</link>
+      <atom:link href="https://andrea-hofer.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://andrea-hofer.github.io/media/icon_huec00d3146b3662203c183d9b5f77aa22_5560949_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching</title>
+      <link>https://andrea-hofer.github.io/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Courses and teaching material</title>
+      <link>https://andrea-hofer.github.io/teaching/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andrea-hofer.github.io/teaching/courses/</guid>
+      <description>&lt;p&gt;I have taught the following courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;teaching assistant for the PhD course &amp;ldquo;Mathematical methods for Microeconomics&amp;rdquo; (lecturer: Andreas Hefti)&lt;/li&gt;
+&lt;li&gt;teaching assistant for the undergraduate course &amp;ldquo;Market Design&amp;rdquo; (lecturer: Marek Pycia)&lt;/li&gt;
+&lt;li&gt;teaching assistant for the course &amp;ldquo;Intorduction to Microeconomics&amp;rdquo; (lecturer: Ernst Fehr)&lt;/li&gt;
+&lt;li&gt;teaching assistant for the undergraduate course &amp;ldquo;Introduction to Macroeconomics&amp;rdquo; (lecturer: Christian Hepenstrick)&lt;/li&gt;
+&lt;li&gt;teaching assistant for the undergraduate course &amp;ldquo;Introduction to Game Theory&amp;rdquo; (lecturer: Samuel Haefner)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I designed the following teaching materials for the Economic Education Program of the Swiss National Bank:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;How to invest and trade online&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The economics behind Big Tech companies&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
