@@ -13,11 +13,20 @@
     </image>
     
     <item>
-      <title>A Purse of Her Own: Women&#39;s Access to Banking Services and Female Labor Supply</title>
+      <title>A Purse of Her Own: Women&#39;s Access to Financial Services and Female Labor Supply</title>
       <link>https://andrea-hofer.github.io/research/womensfinancialliberation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andrea-hofer.github.io/research/womensfinancialliberation/</guid>
-      <description>&lt;p&gt;Up until 1975, US women often reported issues when applying for bank accounts or loans in their own names: many banks required male co-signers, essentially granting married womens&#39; husbands access to their accounts. Such discriminatory practices were outlawed in the US with various credit laws introduced in different states at different times, culminating in the national Equal Credit Opportunity Act in 1975. In this paper, I study the consequences of granting married women more control over their own finances due to these law changes empirically and in a structural life-cycle model. I find that giving women full control over their own resources increases their likelihood of participating in the labor market by around 8 p.p. I enhance a standard collective household model in order to replicate my empirical findings. Calibrating the model to the US labor market shows that improving married womens&#39; financial independence contributed about % to the overall increase in female labor supply between 1970 and 1990.&lt;/p&gt;
+      <description>&lt;p&gt;Up until 1975, US women often reported issues when applying for bank accounts or loans in their own names: many banks required male co-signers, essentially granting married womens&#39; husbands access to their accounts. Such discriminatory practices were outlawed in the US with various credit laws introduced in different states at different times, culminating in the national Equal Credit Opportunity Act in 1975. In this paper, I study the consequences of granting married women more control over their own finances due to these law changes empirically and in a structural life-cycle model. I find that giving women full control over their own resources increases their likelihood of participating in the labor market by 4-7.5 p.p. Since a standard collective household bargaining model would predict a decrease in labor supply,  I enhance the standard model two-fold: I introduce a norm cost the husband faces when the wife works as well as a hiding share of labor income which the wife can use purely for her own consumption. I then calibrate the model to the US labor market in 1970 and show that the enhanced model is able to replicate the increase in female labor supply seen in the data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cultural Attitudes and Unemployment Benefit Take Up: Evidence from the Swiss Language Border</title>
+      <link>https://andrea-hofer.github.io/research/unemployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andrea-hofer.github.io/research/unemployment/</guid>
+      <description>&lt;p&gt;Does stigma decrease unemployment benefit uptake? We find that stigma does not affect unemployment benefit take up in good times, but has a significant effect in reducing uptake in times of economic crises. The effects persist even among workers who worked at the same firm before losing their job.&lt;/p&gt;
 </description>
     </item>
     
@@ -36,15 +45,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andrea-hofer.github.io/research/normslaws/</guid>
       <description>&lt;p&gt;We study whether a signal of a norm change or the actual law change has a larger impact on real world outcomes by looking at a vote on the Swiss marriage law which passed in 1985 (signal), but was only implemented in 1988 (law change). While the old marriage law allowed the husband to prohibit his wife from working, the new law did not anymore.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Unemployment Insurance Uptake, Stigma and Long Run Outcomes: Evidence from the Swiss Language Border</title>
-      <link>https://andrea-hofer.github.io/research/unemployment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://andrea-hofer.github.io/research/unemployment/</guid>
-      <description>&lt;p&gt;Does stigma decrease unemployment benefit uptake? We find that stigma does not affect unemployment benefit take up in good times, but has a significant effect in reducing uptake in times of economic crises.&lt;/p&gt;
 </description>
     </item>
     
